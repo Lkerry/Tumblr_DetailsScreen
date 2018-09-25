@@ -1,9 +1,9 @@
-# Tumblr_Feed
+# Tumblr_DetailsScreen
 Populate a table view with data returned from the Tumblr Image Blog, Humans of New York
 
-# Lab 1 - *Tumblr_Feed*
+# Lab 1 - *Tumblr_DetailsScreen*
 
-**Tumblr_Feed** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
+**TTumblr_DetailsScreen** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
 Time spent: **5** hours spent in total
 
@@ -26,14 +26,29 @@ The following **additional** user stories are implemented:
 
 Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
-1.
-2.
+# Lab 2 - *Tumblr_DetailsScreen*
+
+The following **required** user stories are complete:
+
+- [X] User can tab an image to view a larger image in a detail view (5pts)
+
+The following **stretch** user stories are implemented:
+
+- [X] Add Avatar and Publish Dates (+2pt)
+- [ ] Zoomable Photo View (+2pt)
+- [X] Infinite Scrolling (+2pt)
+
+The following **additional** user stories are implemented:
+
+- [ ] List anything else that you can get done to improve the app functionality! (+1-3pts)
+
+Please list two areas of the assignment you'd like to **discuss further with your peers** during the next class (examples include better ways to implement something, how to extend your app in certain ways, etc):
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='Tumblr_DetailsScreen.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
