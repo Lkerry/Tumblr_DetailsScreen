@@ -1,7 +1,7 @@
 # Tumblr_DetailsScreen
 Populate a table view with data returned from the Tumblr Image Blog, Humans of New York
 
-# Lab 1 - *Tumblr_DetailsScreen*
+# Lab 1 - *Tumblr_Feed*
 
 **TTumblr_DetailsScreen** is a photo browsing app using the [The Tumblr API](https://www.tumblr.com/docs/en/api/v2#posts).
 
